@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning **Three.js ,Web-design, devops**
+- 🌱 I’m currently learning **Three.js ,Web-design, devops, Remix-react-framework**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
